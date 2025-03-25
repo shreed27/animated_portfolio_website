@@ -35,21 +35,20 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                   Finance Analyst Intern
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                 Unified Mentor Private Limited
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   June 2023 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                  
+• Preparing detailed reports, dashboards, and presentations to assist in decision-making processes.
+• Researching and analyzing data to identify investment opportunities, risk factors, and market dynamics.
+• Assisting in preparing valuation reports, business case analyses, and scenario modeling.
+• Staying updated with economic trends, regulatory changes, and industry developments to provide actionable insights.
                 </p>
               </div>
             </div>
