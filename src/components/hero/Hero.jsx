@@ -21,14 +21,14 @@ const Hero = () => {
               data-aos="fade-up"
               className=" text-5xl font-bold sm:text-[2rem]"
             >
-              Hello, I'm Shreed 
+              Hello, I'm Shreed
             </h2>
             <TypeAnimation
               data-aos="fade-up"
               sequence={[
-                "Quant Trade & Developer",
+                "Quant trader & developer",
                 2000,
-                " AI application expert & Ml models ",
+                "AI & ML models expert",
                 2000,
                 "",
               ]}
@@ -68,15 +68,15 @@ const Hero = () => {
               className=" flex gap-5"
             >
               <li>
-                <a href="https://github.com/shreed27">
+                <a href="">
                   {" "}
                   <AiFillGithub className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125" />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/shreedshrivastava/">
+                <a href="">
                   {" "}
-                  <FaFacebook className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
+                  <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
               </li>
               <li>
@@ -88,7 +88,7 @@ const Hero = () => {
               <li>
                 <a href="">
                   {" "}
-                  <FaLeetcode className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
+                  <FaFacebook className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
               </li>
               <li>
