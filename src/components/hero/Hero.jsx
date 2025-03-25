@@ -28,9 +28,7 @@ const Hero = () => {
               sequence={[
                 "Quant Trade & Developer",
                 2000,
-                " AI application expert ",
-                2000,
-                " Specialization in Machine learning models ",
+                " AI application expert & Ml models ",
                 2000,
                 "",
               ]}
