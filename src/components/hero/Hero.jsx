@@ -2,9 +2,9 @@ import React from "react";
 import {
   AiFillTwitterCircle,
   AiFillGithub,
-  AiFillInstagram,
+  AiFillCodeChef,
 } from "react-icons/ai";
-import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
+import { FaCodeChef, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
