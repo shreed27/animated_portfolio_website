@@ -41,7 +41,7 @@ const Resume = () => {
                  Unified Mentor Private Limited
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2023 - Present
+                  March 2025 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   
